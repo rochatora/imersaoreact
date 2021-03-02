@@ -1,0 +1,33 @@
+{
+  "name": "imersaoreact",
+  "version": "1.0.0",
+  "description": "Imersão Node.js, React e React Native 6.0 - CELKE",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rochatora/imersaoreact.git"
+  },
+  "author": "Renato Rocha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rochatora/imersaoreact/issues"
+  },
+  "homepage": "https://github.com/rochatora/imersaoreact#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "bootstrap": "^4.6.0",
+    "install": "^0.13.0",
+    "next": "^10.0.7",
+    "npm": "^7.6.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "reactstrap": "^8.9.0"
+  }
+}
